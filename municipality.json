@@ -1,0 +1,222 @@
+[
+{
+    "id": 1,
+    "institution": 2,
+    "code": "HOK_SAP",
+    "name": "Sapporo",
+    "department": {
+      "id": 4,
+      "institution": 2,
+      "code": "HOK",
+      "name": "Hokkaido",
+      "country": {
+        "id": 2,
+        "institution": 2,
+        "code": "JAP",
+        "name": "Japon",
+        "state": "A"
+      },
+      "state": "A"
+    },
+    "state": "A",
+    "idsede": null
+  },
+  {
+    "id": 2,
+    "institution": 2,
+    "code": "AOM_AOM",
+    "name": "Aomori",
+    "department": {
+      "id": 5,
+      "institution": 2,
+      "code": "JAP_AOM",
+      "name": "Aomori",
+      "country": {
+        "id": 2,
+        "institution": 2,
+        "code": "JAP",
+        "name": "Japon",
+        "state": "A"
+      },
+      "state": "A"
+    },
+    "state": "A",
+    "idsede": null
+  },
+  {
+    "id": 3,
+    "institution": 2,
+    "code": "IWA_MOR",
+    "name": "Morioka",
+    "department": {
+      "id": 6,
+      "institution": 2,
+      "code": "JAP_IWA",
+      "name": "Iwate",
+      "country": {
+        "id": 2,
+        "institution": 2,
+        "code": "JAP",
+        "name": "Japon",
+        "state": "A"
+      },
+      "state": "A"
+    },
+    "state": "A",
+    "idsede": null
+  },
+  {
+    "id": 4,
+    "institution": 2,
+    "code": "MIYA_SEN",
+    "name": "Sendai",
+    "department": {
+      "id": 7,
+      "institution": 2,
+      "code": "JAP_MIYA",
+      "name": "Miyagi",
+      "country": {
+        "id": 2,
+        "institution": 2,
+        "code": "JAP",
+        "name": "Japon",
+        "state": "A"
+      },
+      "state": "A"
+    },
+    "state": "A",
+    "idsede": null
+  },
+  {
+    "id": 5,
+    "institution": 2,
+    "code": "YAMA_YAMA",
+    "name": "Yamagata",
+    "department": {
+      "id": 8,
+      "institution": 2,
+      "code": "JAP_YAMA",
+      "name": "Yamagata",
+      "country": {
+        "id": 2,
+        "institution": 2,
+        "code": "JAP",
+        "name": "Japon",
+        "state": "A"
+      },
+      "state": "A"
+    },
+    "state": "A",
+    "idsede": null
+  },
+  {
+    "id": 6,
+    "institution": 2,
+    "code": "FUKI_FUKI",
+    "name": "Fukishima",
+    "department": {
+      "id": 9,
+      "institution": 2,
+      "code": "JAP_FUKI",
+      "name": "Fukishima",
+      "country": {
+        "id": 2,
+        "institution": 2,
+        "code": "JAP",
+        "name": "Japon",
+        "state": "A"
+      },
+      "state": "A"
+    },
+    "state": "A",
+    "idsede": null
+  },
+  {
+    "id": 7,
+    "institution": 2,
+    "code": "SAITA_SAITA",
+    "name": "Saitama",
+    "department": {
+      "id": 10,
+      "institution": 2,
+      "code": "JAP_SAITA",
+      "name": "Saitama",
+      "country": {
+        "id": 2,
+        "institution": 2,
+        "code": "JAP",
+        "name": "Japon",
+        "state": "A"
+      },
+      "state": "A"
+    },
+    "state": "A",
+    "idsede": null
+  },
+  {
+    "id": 8,
+    "institution": 2,
+    "code": "CHIBA_CHIBA",
+    "name": "Chiba",
+    "department": {
+      "id": 11,
+      "institution": 2,
+      "code": "JAP_CHIBA",
+      "name": "Chiba",
+      "country": {
+        "id": 2,
+        "institution": 2,
+        "code": "JAP",
+        "name": "Japon",
+        "state": "A"
+      },
+      "state": "A"
+    },
+    "state": "A",
+    "idsede": null
+  },
+  {
+    "id": 9,
+    "institution": 2,
+    "code": "NAGA_NAGA",
+    "name": "Nagano",
+    "department": {
+      "id": 12,
+      "institution": 2,
+      "code": "JAP_NAGA",
+      "name": "Nagano",
+      "country": {
+        "id": 2,
+        "institution": 2,
+        "code": "JAP",
+        "name": "Japon",
+        "state": "A"
+      },
+      "state": "A"
+    },
+    "state": "A",
+    "idsede": null
+  },
+  {
+    "id": 10,
+    "institution": 2,
+    "code": "OSA_OSA",
+    "name": "Osaka",
+    "department": {
+      "id": 13,
+      "institution": 2,
+      "code": "JAP_OSA",
+      "name": "OSAKA",
+      "country": {
+        "id": 2,
+        "institution": 2,
+        "code": "JAP",
+        "name": "Japon",
+        "state": "A"
+      },
+      "state": "A"
+    },
+    "state": "A",
+    "idsede": null
+  }
+]
